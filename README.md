@@ -34,6 +34,10 @@ Libraries Used: Pandas, NumPy, Matplotlib, Seaborn
 This project was completed as part of my **Data Science Internship at Cognifyz Technologies**, where I am gaining real-world experience in preparing and analyzing data.
 
 🎥 Demo
-https://github.com/user-attachments/assets/ce2f7a09-3752-4bc9-9372-1a9c52ac9294
+
+
+https://github.com/user-attachments/assets/5b308a66-72ac-4652-8e40-e2d2ad032ea2
+
+
 
 
